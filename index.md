@@ -12,6 +12,7 @@
 Sorry, it's under construction...
 
 # Publications
+- Mori, Ryutaro, Ruiyun Liu, and Yu Chen. "[Measuring the topological time-irreversibility of time series with the degree-vector-based visibility graph method.](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full)" Frontiers in Physics: 654.
 
 # Some accounts
 - Github: [ryutau](https://github.com/ryutau)
