@@ -16,6 +16,7 @@ Sorry, it's under construction...
 
 # Some accounts
 - Github: [ryutau](https://github.com/ryutau)
+- Qiita: [ryutaro mori](https://qiita.com/ryutau)
 
 # Kanji
 
