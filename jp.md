@@ -31,9 +31,5 @@ Sorry, it's under construction...
 - Qiita: [ryutaro mori](https://qiita.com/ryutau)
 - Researchmap: [Ryutaro Mori](https://researchmap.jp/ryutaromori)
 
-# Kanji
-
-森　隆太郎 (もり　りゅうたろう)
-
-# リンク
-[東大社会心理 亀田研究室](http://www.tatsuyakameda.com/)
+# Link
+[亀田達也研究室](http://www.tatsuyakameda.com/)
