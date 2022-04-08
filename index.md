@@ -1,20 +1,13 @@
-[WIP]
+I'm a graduate student studying social psychology in the University of Tokyo.
 
 # Affliation
 - 2nd year Master student at Univ. of Tokyo
 - Email: ryutau.mori [at] gmail.com
 
 # Education
-[in English]
 - 2021.4 - present: [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
 - 2018.10 - 2021.3: [Faculty of Engineering](https://www.si.t.u-tokyo.ac.jp/course/sdm/), The University of Tokyo (B.S. degree)
 - 2016.4 - 2018.9: Human Sciences I, The University of Tokyo
-
-[in Japanese]
-- 2021.4 - 現在: [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
-- 2018.10 - 2021.3: [システム創成学科Bコース](https://www.si.t.u-tokyo.ac.jp/course/sdm/), 東京大学工学部 (学士)
-- 2016.4 - 2018.9: 東京大学教養学部文科一類
-
 
 # Research interests
 Sorry, it's under construction...
