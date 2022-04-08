@@ -1,5 +1,5 @@
 title: Ryutaro Mori
-description: Welcome to my cheap web page.."[I'm an inline-style link](https://www.google.com)"
+description: Welcome to my cheap web page.. <a href="https://www.google.com">link</a>
 theme: jekyll-theme-minimal
 
 exclude:

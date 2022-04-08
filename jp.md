@@ -1,3 +1,5 @@
+森隆太郎のHPです。
+
 # 所属
 - 東京大学大学院人文社会系研究科 修士2年
 - Email: ryutau.mori [at] gmail.com
