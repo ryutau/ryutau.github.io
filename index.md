@@ -22,6 +22,7 @@ Sorry, it's under construction...
 # Some accounts
 - Github: [ryutau](https://github.com/ryutau)
 - Qiita: [ryutaro mori](https://qiita.com/ryutau)
+- another page: [test](https://ryutau.github.io/page_2.html)
 
 # Kanji
 
