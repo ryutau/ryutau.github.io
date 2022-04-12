@@ -14,10 +14,11 @@ Sorry, it's under construction...
 
 # Publications
 [in English]
-- Mori R, Liu R and Chen Y (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
+- **Mori R.**, Liu R. and Chen Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
 [in Japanese]
-- 亀田達也・**森隆太郎** (2022). [分配の正義の社会生物学的基盤](https://www.jstage.jst.go.jp/article/jrsj/40/1/40_40_25/_article/-char/ja/). 日本ロボット学会誌, 40, 25-28. https://doi.org/10.7210/jrsj.40.25
+- Kameda, T. & **Mori, R.** (2022). [Socio-biological bases of distributive justice](https://www.jstage.jst.go.jp/article/jrsj/40/1/40_40_25/_article/-char/ja/). Journal of the Robotics Society of Japan, 40(2), 25-28. doi:10.7210/jrsj.40.25 (in Japanese)
+
 
 # Talks
 [in English]
