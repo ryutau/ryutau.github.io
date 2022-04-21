@@ -10,7 +10,10 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 - 2016.4 - 2018.9: Human Sciences I, The University of Tokyo
 
 # Research interests
-Sorry, it's under construction...
+I'm attempting to understand the fundamental computations that allow humans to navigate such a social world.
+My recent research has focused on how people infer their peers' hidden mental states as a generative source of behavior that is generalizable across different degrees of incentive alignment.
+
+To this end, my research employs a combination of behavioral experiments, mathematical modeling, and computer simulations to better understand individual cognitive computation and predict large-scale outcomes.
 
 # Publications
 [in English]
