@@ -30,14 +30,16 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 - **森隆太郎**・亀田達也「新たなシグナルが人間社会に普及する過程の実証的検討-飲食店の新型コロナ対策ステッカー制度を例にとって-」[日本人間行動進化学会第14回大会](https://sites.google.com/hbesj.org/hbes-j2021online/home)，オンライン開催，2021年12月.
 - **森隆太郎**・亀田達也「チープなシグナルは人間社会でどう普及するか？-飲食店の新型コロナ対策ステッカー制度を例にとって-」[日本社会心理学会第62回大会](https://www.socialpsychology.jp/conf2021/)，オンライン開催，2021年8月.
 
+# Others
+Some of my lab mates and I are reading random interesting papers together weekly. [Here](https://ryutau.github.io/journal-club-2022.md) are the list of recently read papers, which I think best describes my interests at the moment.
+
 # Accounts
 - Github: [ryutau](https://github.com/ryutau)
 - Qiita: [ryutaro mori](https://qiita.com/ryutau)
 - Researchmap: [Ryutaro Mori](https://researchmap.jp/ryutaromori)
 
 # Kanji
-
 森　隆太郎 (もり　りゅうたろう)
 
 # Links
-[Kameda Lab](http://www.tatsuyakameda.com/)
+[Kameda Lab](http://www.tatsuyakameda.com/homeeng.html)
