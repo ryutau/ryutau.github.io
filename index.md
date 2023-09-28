@@ -16,7 +16,7 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 - 2016.4 - 2018.9: Human Sciences I, The University of Tokyo
 
 # Research Interests
- I am interested in collective intelligence in its broadest sense, but with a particular focus on human group dynamics. I aim to devise principled understandings that can bridge the gap between individual and collective-level behaviors/computations, currently employing a combination of game-theoretic experiments and computational modeling.
+ I am interested in collective intelligence in its broadest sense, but with a particular focus on human group dynamics. I aim to develop principled understandings that can bridge the gap between individual and collective-level behaviors/computations, currently employing a combination of game-theoretic experiments and computational modeling.
 
 # Publications
 [in English]
