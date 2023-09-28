@@ -1,4 +1,4 @@
-Some of [my lab](http://www.tatsuyakameda.com/homeeng.html) mates and I are reading random interesting papers together weekly. Here are the list of recently read papers.
+Some of [my lab](http://www.tatsuyakameda.com/homeeng.html) mates and I are reading random interesting papers together. Here is the list of papers we read recently.
 
 ## Winter in 2022
 - Oey, L. A., Schachner, A., & Vul, E. (2022). Designing and detecting lies by reasoning about other agents. Journal of Experimental Psychology

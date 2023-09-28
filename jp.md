@@ -5,10 +5,14 @@
 - Email: ryutau.mori [at] gmail.com
 
 # 経歴
-- 2023.4 - 現在: **博士課程学生**（主：社会心理学；副：情報学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
-- 2023.4 - 現在: **学振特別研究員（DC1）**, [日本学術振興会](https://www.jsps.go.jp/)
-- 2021.4 - 2023.3: **修士**（社会心理学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
-- 2018.10 - 2021.3: **学士**（工学）[システム創成学科Bコース](https://www.si.t.u-tokyo.ac.jp/course/sdm/), 東京大学工学部
+- 2023.4 - 現在:<br>
+**博士課程学生**（主：社会心理学；副：情報学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
+- 2023.4 - 現在:<br>
+**学振特別研究員（DC1）**, [日本学術振興会](https://www.jsps.go.jp/)
+- 2021.4 - 2023.3:<br>
+**修士**（社会心理学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
+- 2018.10 - 2021.3:<br>
+**学士**（工学）[システム創成学科Bコース](https://www.si.t.u-tokyo.ac.jp/course/sdm/), 東京大学工学部
 - 2016.4 - 2018.9: 東京大学教養学部文科一類
 
 # 研究

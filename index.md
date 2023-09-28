@@ -5,10 +5,14 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 - Email: ryutau.mori [at] gmail.com
 
 # Education
-- 2023.4 - Present: **PhD candidate** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
-- 2023.4 - Present: **JSPS Research Fellow** (DC1), [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/)
-- 2021.4 - 2023.3: **MA** (Social Psychology), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
-- 2018.10 - 2021.3: **BA** (Engineering), [Faculty of Engineering](https://www.si.t.u-tokyo.ac.jp/course/sdm/), The University of Tokyo
+- 2023.4 - Present:<br>
+**PhD candidate** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
+- 2023.4 - Present:<br>
+**JSPS Research Fellow** (DC1), [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/)
+- 2021.4 - 2023.3:<br>
+**MA** (Social Psychology), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
+- 2018.10 - 2021.3:<br>
+**BA** (Engineering), [Faculty of Engineering](https://www.si.t.u-tokyo.ac.jp/course/sdm/), The University of Tokyo
 - 2016.4 - 2018.9: Human Sciences I, The University of Tokyo
 
 # Research Interests
@@ -16,7 +20,7 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 
 # Publications
 [in English]
-- **Mori, R.**, Hanaki, N., & Kameda, T.. (in prep). [Voluntary participation with outside individual options facilitates group collaboration via improved optimism.](https://doi.org/10.21203/rs.3.rs-3300738/v1)
+- **Mori, R.**, Hanaki, N., & Kameda, T. (in prep). [Voluntary participation with outside individual options facilitates group collaboration via improved optimism.](https://doi.org/10.21203/rs.3.rs-3300738/v1)
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
 [in Japanese]
@@ -36,7 +40,7 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 - [62nd Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2021/), Online, JPN (2021).
 
 # Others
-Some of my lab mates and I are reading random interesting papers together. [Here](https://ryutau.github.io/journal-club-2022) is the list of recently papers that I believe well describe my interests at the moment.
+Some of my lab mates and I are reading random interesting papers together. [Here](https://ryutau.github.io/journal-club-2022) is the list of recent papers that I believe well describe my interests at the moment.
 
 # Accounts
 - Github: [ryutau](https://github.com/ryutau)
