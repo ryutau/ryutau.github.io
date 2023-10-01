@@ -6,11 +6,11 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 
 # Education
 - 2023.4 - Present:<br>
-**PhD candidate** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
+**PhD candidate** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index-e.html), The University of Tokyo
 - 2023.4 - Present:<br>
 **JSPS Research Fellow** (DC1), [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/)
 - 2021.4 - 2023.3:<br>
-**MA** (Social Psychology), [Department of Social Psychology](http://www.utokyo-socpsy.com/index.html), The University of Tokyo
+**MA** (Social Psychology), [Department of Social Psychology](http://www.utokyo-socpsy.com/index-e.html), The University of Tokyo
 - 2018.10 - 2021.3:<br>
 **BA** (Engineering), [Faculty of Engineering](https://www.si.t.u-tokyo.ac.jp/course/sdm/), The University of Tokyo
 - 2016.4 - 2018.9: Human Sciences I, The University of Tokyo

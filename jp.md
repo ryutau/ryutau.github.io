@@ -30,6 +30,8 @@ Sorry, it's under construction...
 [英語]
 
 [日本語]
+<details>
+<summary>一覧</summary>
 - **森隆太郎**・髙橋茉優・花木伸行・亀田達也「リアルタイムな協働における能動的な協力行動と返報」, [日本グループ・ダイナミックス学会第69回大会](https://www.kochi-tech.ac.jp/jgda69th/index.html), Short Speech, 高知, 2023年9月.
 - **森隆太郎**・髙橋茉優・花木伸行・亀田達也「リアルタイムの囚人のジレンマにおける能動的な協力行動と返報」, [日本社会心理学会第64回大会](https://www.socialpsychology.jp/conf2023/), ポスター発表, 東京, 2023年9月.
 - **森隆太郎**・花木伸行・亀田達也「離れうることは集まることを助けるか?ー閾値型公共財ゲーム実験を通じた検討ー」[人間行動進化学会第15回大会](https://sites.google.com/hbesj.org/conf2022sapporo/), 口頭発表, 北海道, 2022年12月.
@@ -37,6 +39,7 @@ Sorry, it's under construction...
 - **森隆太郎**・花木伸行・亀田達也「自主的に始まることは集合行為をどう変えるか」, [第24回実験社会科学カンファレンス](https://sites.google.com/view/ess24/), オンライン開催, 2022年1月. **若手発表賞**
 - **森隆太郎**・亀田達也「新たなシグナルが人間社会に普及する過程の実証的検討-飲食店の新型コロナ対策ステッカー制度を例にとって-」, [日本人間行動進化学会第14回大会](https://sites.google.com/hbesj.org/hbes-j2021online/home), オンライン開催, 2021年12月.
 - **森隆太郎**・亀田達也「チープなシグナルは人間社会でどう普及するか？-飲食店の新型コロナ対策ステッカー制度を例にとって-」, [日本社会心理学会第62回大会](https://www.socialpsychology.jp/conf2021/), オンライン開催, 2021年8月.
+</details>
 
 # アカウント
 - Github: [ryutau](https://github.com/ryutau)
