@@ -34,7 +34,7 @@ Sorry, it's under construction...
 <details>
 <summary>[日本語]</summary>
 <ul>
-<li>**森隆太郎**・髙橋茉優・花木伸行・亀田達也「リアルタイムな協働における能動的な協力行動と返報」, [日本グループ・ダイナミックス学会第69回大会](https://www.kochi-tech.ac.jp/jgda69th/index.html), Short Speech, 高知, 2023年9月.</li>
+<li>**森隆太郎**・髙橋茉優・花木伸行・亀田達也「リアルタイムな協働における能動的な協力行動と返報」, [日本グループ・ダイナミックス学会第69回大会](https://www.kochi-tech.ac.jp/jgda69th/index.html), Short Speech, 高知, 2023年9月. **優秀学会発表賞（ショートスピーチ部門）**</li>
 <li>**森隆太郎**・髙橋茉優・花木伸行・亀田達也「リアルタイムの囚人のジレンマにおける能動的な協力行動と返報」, [日本社会心理学会第64回大会](https://www.socialpsychology.jp/conf2023/), ポスター発表, 東京, 2023年9月.</li>
 <li>**森隆太郎**・花木伸行・亀田達也「離れうることは集まることを助けるか?ー閾値型公共財ゲーム実験を通じた検討ー」[人間行動進化学会第15回大会](https://sites.google.com/hbesj.org/conf2022sapporo/), 口頭発表, 北海道, 2022年12月.</li>
 <li>**森隆太郎**・花木伸行・亀田達也「集合行為を支える自主的な参加のメカニズムの検討」, [日本社会心理学会第63回大会](https://www.socialpsychology.jp/conf2022/), ポスター発表, 東京, 2022年9月.</li>

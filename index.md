@@ -31,7 +31,7 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 [in English]
 
 [in Japanese]
-- [69th Conference of the Japanese Group Dynamics Association](https://www.kochi-tech.ac.jp/jgda69th/index.html), Kochi, JPN (2023).
+- [69th Conference of the Japanese Group Dynamics Association](https://www.kochi-tech.ac.jp/jgda69th/index.html), Kochi, JPN (2023). **Best Presentation Award**.
 - [64th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2023/), Tokyo, JPN (2023).
 - [15th Conference of Human Behavior & Evolution Society of Japan](https://sites.google.com/hbesj.org/conf2022sapporo/), Sapporo, JPN (2022).
 - [63rd Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2022/), Kyoto, JPN (2022).
