@@ -20,7 +20,7 @@ I'm a graduate student studying social psychology in the University of Tokyo.
 
 # Publications
 [in English]
-- **Mori, R.**, Hanaki, N., & Kameda, T. (in prep). [Voluntary participation with outside individual options facilitates group collaboration via improved optimism.](https://doi.org/10.21203/rs.3.rs-3300738/v1)
+- **Mori, R.**, Hanaki, N., & Kameda, T. (in review). [Voluntary participation and optimism: How and when outside individual options can facilitbate group collaboration](https://doi.org/10.21203/rs.3.rs-3300738/v3)
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
 [in Japanese]
