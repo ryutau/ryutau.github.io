@@ -19,13 +19,15 @@
 
 # 研究
 
-Sorry, it's under construction...
+広い意味での「集合知」に興味があります。特に、人の集団はいつどのように「三人寄れば文殊の知恵」を実現し、反対になぜ時に「船頭多くして船山に登る」羽目になるのでしょうか。
+
+理想的には、個人レベルの意思決定を数理モデルで表し、それが集団レベルの（非）機能に変換される仕組みを理解したいと思っています。そのために、ゲーム理論的な実験・計算論モデリング・マルチエージェントシミュレーションを駆使します。
 
 # 論文
 
 [英語]
 
-- **Mori, R.**, Hanaki, N., & Kameda, T. (in review). [Voluntary participation and optimism: How and when outside individual options can facilitbate group collaboration](https://doi.org/10.21203/rs.3.rs-3300738/v3)
+- **Mori, R.**, Hanaki, N., & Kameda, T. (2024). [An outside individual option increases optimism and facilitates collaboration when groups form flexibly](https://doi.org/10.1038/s41467-024-49779-9). Nat. Commun. 15, 5520.
 - **Mori, R.**, Suganuma, H., & Kameda, T. (2024). [Generalizability of Conformist Social Influence Beyond Direct Reference](https://escholarship.org/uc/item/0rc7j70p). Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 

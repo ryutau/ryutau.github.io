@@ -25,7 +25,7 @@ I am interested in collective intelligence in a broad sense, with a particular f
 
 [in English]
 
-- **Mori, R.**, Hanaki, N., & Kameda, T. (2024). [An outside individual option increases optimism and facilitates collaboration when groups form flexibly](https://doi.org/10.1038/s41467-024-49779-9). Nat Commun 15, 5520.
+- **Mori, R.**, Hanaki, N., & Kameda, T. (2024). [An outside individual option increases optimism and facilitates collaboration when groups form flexibly](https://doi.org/10.1038/s41467-024-49779-9). Nat. Commun. 15, 5520.
 - **Mori, R.**, Suganuma, H., & Kameda, T. (2024). [Generalizability of Conformist Social Influence Beyond Direct Reference](https://escholarship.org/uc/item/0rc7j70p). Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
@@ -42,7 +42,7 @@ I am interested in collective intelligence in a broad sense, with a particular f
 
 [in Japanese]
 
-- [88th Anual Convention of the Japanese Psychological Association](https://pub.confit.atlas.jp/ja/event/jpa2024), Kumamoto, JPN (2024).
+- [88th Annual Convention of the Japanese Psychological Association](https://pub.confit.atlas.jp/ja/event/jpa2024), Kumamoto, JPN (2024).
 - [65th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2024/), Online, JPN (2024).
 - [69th Conference of the Japanese Group Dynamics Association](https://www.kochi-tech.ac.jp/jgda69th/index.html), Kochi, JPN (2023). **Best Presentation Award**.
 - [64th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2023/), Tokyo, JPN (2023).
