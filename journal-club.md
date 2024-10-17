@@ -1,11 +1,20 @@
-Some of [my lab](http://www.tatsuyakameda.com/homeeng.html) mates and I are reading random interesting papers together. Here is the list of papers we read recently.
+I like to read random interesting papers or textbooks with my friends. Here is a partial list that I think describes my current interests well.
 
-## Winter in 2022
+# Textbooks
+
+- Sutton, R., & Barto, A. (2018). [Reinforcement learning: An introduction](http://incompleteideas.net/book/the-book.html). MIT Press.
+- Farrell, S., & Lewandowsky, S. (2018). [Computational modeling of cognition and behavior](https://psy-farrell.github.io/computational-modelling//about/). Cambridge University Press.
+- Davies, N., Krebs, J., & West, S. (2012). [An Introduction to Behavioural Ecology](https://www.wiley.com/en-nz/An+Introduction+to+Behavioural+Ecology%2C+4th+Edition-p-9781405114165). Wiley-Blackwell.
+- N. D. Goodman, J. B. Tenenbaum, and The ProbMods Contributors (2016). [Probabilistic Models of Cognition (2nd ed.)](https://probmods.org/).
+- Acerbi, A., Mesoudi, A., & Smolla, M. (2022). [Individual-based models of cultural evolution: a step-by-step guide using R](https://acerbialberto.com/IBM-cultevo/). Routledge.
+
+# Papers
+
+## In 2022
+
 - Oey, L. A., Schachner, A., & Vul, E. (2022). Designing and detecting lies by reasoning about other agents. Journal of Experimental Psychology
 - Charlton, Shawn R., et al. "Now for me, later for us? Effects of group context on temporal discounting." Journal of Behavioral Decision Making 26.2 (2013): 118-127.
 - Sloman, Sabina J., Robert L. Goldstone, and Cleotilde Gonzalez. "A Social Interpolation Model of Group Problem‐Solving." Cognitive Science 45.12 (2021): e13066.
-
-## Summer in 2022
 - Kleiman-Weiner, Max, Rebecca Saxe, and Joshua B. Tenenbaum. "Learning a commonsense moral theory." Cognition 167 (2017): 107-123.
 - Thöni, Christian, and Stefan Volk. "Conditional cooperation: Review and refinement." Economics Letters 171 (2018): 37-40.
 - Baker, Chris L., et al. "Rational quantitative attribution of beliefs, desires and percepts in human mentalizing." Nature Human Behaviour 1.4 (2017): 1-10.
