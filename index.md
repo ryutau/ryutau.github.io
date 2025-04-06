@@ -62,6 +62,7 @@ I like to read random interesting papers or textbooks with my friends. [Here](ht
 - Google scholar: [Ryutaro Mori](https://scholar.google.com/citations?user=Naf_i3kAAAAJ&hl=en)
 - Qiita: [ryutaro mori](https://qiita.com/ryutau)
 - Researchmap: [Ryutaro Mori](https://researchmap.jp/ryutaromori)
+- ORCID: [Ryutaro Mori](https://orcid.org/0000-0001-9131-4184)
 
 # Kanji
 
