@@ -2,14 +2,14 @@ Hi, welcome to my website. I am Ryutaro Mori, studying social psychology in the 
 
 # Affliation
 
-- PhD student at the University of Tokyo
+- Postdoc at RIKEN (SPDR for RIKEN CBS Computational Group Dynamics Collaboration Unit)
 - Email: ryutau.mori [at] gmail.com
 
 # Education
 
-- 2023.4 - Present:<br>
-  **PhD candidate** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index-e.html), The University of Tokyo
-- 2023.4 - Present:<br>
+- 2023.4 - 2026.3:<br>
+  **PhD** (Major: Social Psychology; Minor: Information Science), [Department of Social Psychology](http://www.utokyo-socpsy.com/index-e.html), The University of Tokyo
+- 2023.4 - 2026.3:<br>
   **JSPS Research Fellow** (DC1), [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/)
 - 2021.4 - 2023.3:<br>
   **MA** (Social Psychology), [Department of Social Psychology](http://www.utokyo-socpsy.com/index-e.html), The University of Tokyo
@@ -70,5 +70,6 @@ I like to read random interesting papers or textbooks with my friends. [Here](ht
 
 # Links
 
+- [COGNAC Lab](https://cognac-lab.com/)
 - [Ohtsubo Laboratory](https://www.l.u-tokyo.ac.jp/~yohtsubo/)
 - [Kameda Lab](http://www.tatsuyakameda.com/homeeng.html)

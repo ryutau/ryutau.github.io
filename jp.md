@@ -1,15 +1,16 @@
-社会心理を専攻する大学院生です。
+インセンティブの視点から集合知を研究しています。
 
-# 所属
+# 現職
 
-- 東京大学大学院人文社会系研究科 博士 3 年
+- 理化学研究所 脳神経科学研究センター 基礎科学特別研究員
+- JST ACT-X 「次世代AIを築く数理・情報科学の革新」
 - Email: ryutau.mori [at] gmail.com
 
 # 経歴
 
-- 2023.4 - 現在:<br>
-  **博士課程学生**（主：社会心理学；副：情報学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
-- 2023.4 - 現在:<br>
+- 2023.4 - 2026.3:<br>
+  **博士**（主：社会心理学；副：情報学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
+- 2023.4 - 2026.3:<br>
   **学振特別研究員（DC1）**, [日本学術振興会](https://www.jsps.go.jp/)
 - 2021.4 - 2023.3:<br>
   **修士**（社会心理学）, [社会心理学研究室](http://www.utokyo-socpsy.com/index.html), 東京大学大学院人文社会系研究科
@@ -70,7 +71,9 @@
 
 # Link
 
-[亀田達也研究室](http://www.tatsuyakameda.com/)
+[豊川ラボ](https://cognac-lab.com/)
+[大坪ラボ](https://www.l.u-tokyo.ac.jp/~yohtsubo/)
+[亀田ラボ](http://www.tatsuyakameda.com/)
 
 <style>
     li {
