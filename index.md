@@ -1,4 +1,4 @@
-Hi, welcome to my website. I am Ryutaro Mori, studying social psychology in the University of Tokyo.
+Hi, welcome to my website. I am Ryutaro Mori, studying collective intelligence from economic and cognitive perspectives.
 
 # Affliation
 
