@@ -1,4 +1,4 @@
-インセンティブの視点から集合知を研究しています。
+ウェブサイトへようこそ。インセンティブの視点から集合知を研究しています。
 
 # 現職
 
@@ -71,9 +71,9 @@
 
 # Link
 
-[豊川ラボ](https://cognac-lab.com/)
-[大坪ラボ](https://www.l.u-tokyo.ac.jp/~yohtsubo/)
-[亀田ラボ](http://www.tatsuyakameda.com/)
+- [豊川ラボ](https://cognac-lab.com/)
+- [大坪ラボ](https://www.l.u-tokyo.ac.jp/~yohtsubo/)
+- [亀田ラボ](http://www.tatsuyakameda.com/)
 
 <style>
     li {
