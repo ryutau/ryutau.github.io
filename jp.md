@@ -64,7 +64,7 @@
 <details>
 <summary>共著</summary>
 <ul>
-    <li>Ilya Horiguchi・<strong>森隆太郎</strong>「Comparing Cooperative Behavior of Large Language Models and Humans in Voluntary Participation Public Goods Games」, Behavioral Clones Workshop 2026, ポスター発表, ベルリン, 2026年5月. (査読有)</li>
+    <li>Ilya Horiguchi・<strong>Ryutaro Mori</strong>「Comparing Cooperative Behavior of Large Language Models and Humans in Voluntary Participation Public Goods Games」, Behavioral Clones Workshop 2026, Poster, Berlin, 2026.5. (refreed)</li>
     <li>堀口維里優・<strong>森隆太郎</strong>・原田憲旺・高田亮介・小島武・岩澤有祐・松尾豊「任意参加型公共財ゲームにおける大規模言語モデルと人間の協力行動の比較」, 人工知能学会全国大会, 口頭発表, 2026年6月.</li>
     <li>大坪快・<strong>森隆太郎</strong>「多様な公共財創出における“Hump-shaped”戦略の有用性」, <a href="https://www.socialpsychology.jp/conf2025/">日本社会心理学会第66回大会</a>, 東京, 2025年9月.</li>
     <li>隅田莉央・菅沼秀蔵・<strong>森隆太郎</strong>・村本由紀子「後悔が選択肢探索に及ぼす影響：シミュレーション・実験での検証」, <a href="https://www.socialpsychology.jp/conf2025/">日本社会心理学会第66回大会</a>, 東京, 2025年9月.</li>
@@ -101,6 +101,12 @@
         margin-bottom: 20px;
     }
     h1 {
-        margin-top: 20px;
+        margin-top: 24px;
+        margin-bottom: 8px;
+    }
+    h1 + p,
+    h1 + ul,
+    h1 + details {
+        margin-top: 0;
     }
 </style>
