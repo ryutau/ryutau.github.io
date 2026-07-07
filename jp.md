@@ -40,6 +40,9 @@
 <details>
 <summary>英語</summary>
 <ul>
+    <li><a href="https://sites.google.com/view/icsd2026">International Conference on Social Dilemmas 2026</a>, Shimonoseki, Japan (2026).</li>
+    <li><a href="https://machinebehavior.science/">Machine+Behavior Conference</a>, Berlin, Germany (2026).</li>
+    <li><a href="https://sbdm2025.github.io/">12th Symposium on The Biology of Decision Making</a>, Lyon, France (2025).</li>
     <li><a href="https://cognitivesciencesociety.org/cogsci-2024/">Proceedings of the Annual Meeting of the Cognitive Science Society, 46</a>, Rotterdam, NDL (2024; Poster).</li>
     <li><a href="https://socialdilemma.com/icsd2024/">International Conference on Social Dilemmas 2024</a>, Leiden, NDL (2024).</li>
 </ul>
