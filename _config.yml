@@ -1,7 +1,13 @@
 title: Ryutaro Mori
-description: <a href="https://ryutau.github.io/rm_cv_202410.pdf">CV</a><br><br><a href="https://ryutau.github.io">English</a> / <a href="https://ryutau.github.io/jp">日本語</a>
+description: >-
+  <span class="sidebar-links"><a class="cv-link" href="/rm_cv_202410.pdf">CV</a><span class="language-links"><a href="/">English</a> / <a href="/jp">日本語</a></span></span>
 theme: jekyll-theme-minimal
+
+logo: /assets/img/myself.png
 
 exclude:
   - LICENSE
   - README.md
+  - vendor
+  - vendor/
+  - .bundle
