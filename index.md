@@ -1,8 +1,9 @@
 Hi, welcome to my website. I am Ryutaro Mori, studying collective intelligence from economic and cognitive perspectives.
 
-# Affliation
+# Affiliation
 
 - Postdoc at RIKEN (SPDR for RIKEN CBS Computational Group Dynamics Collaboration Unit)
+- JST ACT-X "Innovations in Mathematical and Information Sciences for Building Next-Generation AI"
 - Email: ryutau.mori [at] gmail.com
 
 # Education
@@ -31,19 +32,24 @@ I am interested in collective intelligence in a broad sense, with a particular f
 
 [in Japanese]
 
+- **Mori, R.**, Harada, K., Mizuno, S., Onishi, N., Horiguchi, I., Sakamoto, K., Horibe, K., Kojima, T., Matsuo, Y., & Iwasawa, Y. (2026). [Replicating Systems, Understanding Mechanisms: A Survey on Social Simulation with Large Language Model Agents](https://www.jstage.jst.go.jp/article/tjsai/41/4/41_41-4_AN40-G/_article/-char/ja/). Journal of the Japanese Society for Artificial Intelligence, 41(4). **Outstanding Paper Award for the 40th Anniversary of JSAI**. (in Japanese)
 - Kameda, T. & **Mori, R.** (2022). [Socio-biological bases of distributive justice](https://www.jstage.jst.go.jp/article/jrsj/40/1/40_40_25/_article/-char/ja/). Journal of the Robotics Society of Japan, 40(2), 25-28. doi:10.7210/jrsj.40.25 (in Japanese)
 
-# Talks
+# Talks & Posters
 
 [in English]
 
-- [Proceedings of the Annual Meeting of the Cognitive Science Society, 46](https://cognitivesciencesociety.org/cogsci-2024/)., Rotterdam, NDL (2024; Poster).
+- [International Conference on Social Dilemmas 2026](https://sites.google.com/view/icsd2026), Shimonoseki, Japan (2026).
+- [Machine+Behavior Conference](https://machinebehavior.science/), Berlin, Germany (2026).
+- [12th Symposium on The Biology of Decision Making](https://sbdm2025.github.io/), Lyon, France (2025).
+- [Proceedings of the Annual Meeting of the Cognitive Science Society, 46](https://cognitivesciencesociety.org/cogsci-2024/), Rotterdam, NDL (2024; Poster).
 - [International Conference on Social Dilemmas 2024](https://socialdilemma.com/icsd2024/), Leiden, NDL (2024).
 
 [in Japanese]
 
+- [66th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2025/), Tokyo, JPN (2025).
 - [88th Annual Convention of the Japanese Psychological Association](https://pub.confit.atlas.jp/ja/event/jpa2024), Kumamoto, JPN (2024).
-- [65th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2024/), Online, JPN (2024).
+- [65th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2024/), Tokyo, JPN (2024).
 - [69th Conference of the Japanese Group Dynamics Association](https://www.kochi-tech.ac.jp/jgda69th/index.html), Kochi, JPN (2023). **Best Presentation Award**.
 - [64th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2023/), Tokyo, JPN (2023).
 - [15th Conference of Human Behavior & Evolution Society of Japan](https://sites.google.com/hbesj.org/conf2022sapporo/), Sapporo, JPN (2022).
@@ -51,6 +57,17 @@ I am interested in collective intelligence in a broad sense, with a particular f
 - [24th Annual Conference of Experimental Social Science, Online](https://sites.google.com/view/ess24/), JPN (2022). **Young Researchers' Award**.
 - [14th Conference of Human Behavior & Evolution Society of Japan](https://sites.google.com/hbesj.org/hbes-j2021online/home), Online, JPN (2021).
 - [62nd Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2021/), Online, JPN (2021).
+
+[coauthored]
+
+- Horiguchi, I., & **Mori, R.** (2026). Comparing Cooperative Behavior of Large Language Models and Humans in Voluntary Participation Public Goods Games. Behavioral Clones Workshop 2026, Berlin, Germany (reviewed).
+- Horiguchi, I., **Mori, R.**, Harada, K., Takada, R., Kojima, T., Iwasawa, Y., & Matsuo, Y. (2026). Comparing cooperative behavior of large language models and humans in voluntary participation public goods games. JSAI 2026.
+- Ohtsubo, K., & **Mori, R.** (2025). Usefulness of "hump-shaped" strategies in creating diverse public goods. [66th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2025/).
+- Sumida, R., Suganuma, H., **Mori, R.**, & Muramoto, Y. (2025). Effects of regret on option search: Simulation and experimental tests. [66th Conference of the Japanese Society of Social Psychology](https://www.socialpsychology.jp/conf2025/), Tokyo, Japan.
+- Suganuma, H., Sumida, R., & **Mori, R.** (2025). Cognitive mechanisms determining the number of options: Simulation and behavioral experimental tests. 42nd Annual Meeting of the Japanese Cognitive Science Society.
+- Suganuma, H., Sumida, R., & **Mori, R.** (2024). Formal modeling of choice overload. 88th Annual Convention of the Japanese Psychological Association.
+- Kim, H., **Mori, R.**, Mercier, H., & Kameda, T. (2023). Can social information reduce bias based on political prejudice? 87th Annual Convention of the Japanese Psychological Association. **Outstanding Presentation Award**.
+- Kim, H., **Mori, R.**, Mercier, H., & Kameda, T. (2022). Can social information reduce bias based on political prejudice? 15th Conference of Human Behavior & Evolution Society of Japan. **Young Presentation Award**.
 
 # Others
 
