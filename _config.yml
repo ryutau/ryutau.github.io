@@ -3,7 +3,7 @@ description: >-
   <span class="sidebar-links"><a class="cv-link" href="/rm_cv_202410.pdf">CV</a><span class="language-links"><a href="/">English</a> / <a href="/jp">日本語</a></span></span>
 theme: jekyll-theme-minimal
 
-logo: /assets/img/myself.png
+logo: /assets/img/myself.webp
 
 exclude:
   - LICENSE

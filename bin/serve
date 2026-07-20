@@ -1,0 +1,12 @@
+#!/bin/zsh
+
+set -e
+
+export PATH="/opt/homebrew/opt/ruby@3.3/bin:/opt/homebrew/lib/ruby/gems/3.3.0/bin:$PATH"
+
+if [[ ! -x /opt/homebrew/opt/ruby@3.3/bin/ruby ]]; then
+  print -u2 "Ruby 3.3 is not installed. Run: brew install ruby@3.3"
+  exit 1
+fi
+
+exec bundle exec jekyll serve "$@"

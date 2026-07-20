@@ -31,6 +31,7 @@ section {
 
 header img {
     width: 148px;
+    height: auto;
     max-width: 70%;
     border-radius: 8px;
     display: block;
@@ -80,7 +81,7 @@ h1 + details {
 }
 
 .award {
-    color: #f56960;
+    color: #000;
     font-weight: bold;
 }
 
