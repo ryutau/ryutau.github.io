@@ -26,14 +26,20 @@ I am interested in collective intelligence in a broad sense, with a particular f
 
 [in English]
 
+- Asano, H.\*, Suganuma, H.\*, **Mori, R.**\*, & Baba, Y. (2026). [Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models](https://aclanthology.org/2026.emnlp-main.2235/). Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, oral, \*co-first), 50868–50890.
 - **Mori, R.**, Hanaki, N., & Kameda, T. (2024). [An outside individual option increases optimism and facilitates collaboration when groups form flexibly](https://doi.org/10.1038/s41467-024-49779-9). Nat. Commun. 15, 5520.
 - **Mori, R.**, Suganuma, H., & Kameda, T. (2024). [Generalizability of Conformist Social Influence Beyond Direct Reference](https://escholarship.org/uc/item/0rc7j70p). Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
 [in Japanese]
 
-- **Mori, R.**, Harada, K., Mizuno, S., Onishi, N., Horiguchi, I., Sakamoto, K., Horibe, K., Kojima, T., Matsuo, Y., & Iwasawa, Y. (2026). [Replicating Systems, Understanding Mechanisms: A Survey on Social Simulation with Large Language Model Agents](https://www.jstage.jst.go.jp/article/tjsai/41/4/41_41-4_AN40-G/_article/-char/ja/). Journal of the Japanese Society for Artificial Intelligence, 41(4). **JSAI Anniversary Best Paper Award**. (in Japanese)
+- **Mori, R.**\*, Harada, K.\*, Mizuno, S., Onishi, N., Horiguchi, I., Sakamoto, K., Horibe, K., Kojima, T., Matsuo, Y., & Iwasawa, Y. (2026). [Replicating Systems, Understanding Mechanisms: A Survey on Social Simulation with Large Language Model Agents](https://www.jstage.jst.go.jp/article/tjsai/41/4/41_41-4_AN40-G/_article/-char/ja/). Journal of the Japanese Society for Artificial Intelligence, 41(4). (\*co-first) **JSAI Anniversary Best Paper Award**. (in Japanese)
 - Kameda, T. & **Mori, R.** (2022). [Socio-biological bases of distributive justice](https://www.jstage.jst.go.jp/article/jrsj/40/1/40_40_25/_article/-char/ja/). Journal of the Robotics Society of Japan, 40(2), 25-28. doi:10.7210/jrsj.40.25 (in Japanese)
+
+[Preprints]
+
+- **Mori, R.**, Hanaki, N., & Kameda, T. (2026). [Real-time interaction and the signalling value of voluntary early cooperation](https://osf.io/preprints/psyarxiv/h7582). PsyArXiv.
+- Otsubo, K., Kido, Y., & **Mori, R.** (2026). [Partial exploiters sustain cooperation: the hump-shaped strategy stably coexists with unconditional cooperators](https://arxiv.org/abs/2604.23293). arXiv:2604.23293.
 
 # Talks & Posters
 
@@ -77,6 +83,11 @@ I am interested in collective intelligence in a broad sense, with a particular f
     <li>Kim, H., <strong>Mori, R.</strong>, Mercier, H., & Kameda, T. (2022). Can social information reduce bias based on political prejudice? 15th Conference of Human Behavior & Evolution Society of Japan. <strong>Young Presentation Award</strong>.</li>
 </ul>
 </details>
+
+# Teaching
+
+- Behavioral Economics, [Bunkyo Gakuin University](https://www.bgu.ac.jp/) (Fall 2025, Fall 2026).
+- Psychological Research Methods, [Meiji Gakuin University](https://www.meijigakuin.ac.jp/en/) (Spring 2026).
 
 # Others
 

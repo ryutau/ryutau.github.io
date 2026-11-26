@@ -1,3 +1,7 @@
+---
+lang: ja
+---
+
 ウェブサイトへようこそ。インセンティブの視点から集合知を研究しています。
 
 # 現職
@@ -26,14 +30,20 @@
 
 [英語]
 
+- Asano, H.\*, Suganuma, H.\*, **Mori, R.**\*, & Baba, Y. (2026). [Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models](https://aclanthology.org/2026.emnlp-main.2235/). Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, oral, \*co-first), 50868–50890.
 - **Mori, R.**, Hanaki, N., & Kameda, T. (2024). [An outside individual option increases optimism and facilitates collaboration when groups form flexibly](https://doi.org/10.1038/s41467-024-49779-9). Nat. Commun. 15, 5520.
 - **Mori, R.**, Suganuma, H., & Kameda, T. (2024). [Generalizability of Conformist Social Influence Beyond Direct Reference](https://escholarship.org/uc/item/0rc7j70p). Proceedings of the Annual Meeting of the Cognitive Science Society, 46.
 - **Mori, R.**, Liu, R., and Chen, Y. (2021). [Measuring the Topological Time Irreversibility of Time Series With the Degree-Vector-Based Visibility Graph Method](https://www.frontiersin.org/articles/10.3389/fphy.2021.777958/full). Front. Phys., 9:777958. doi: 10.3389/fphy.2021.777958
 
 [日本語]
 
-- **森隆太郎**, 原田憲旺, 水野晋之介, 大西直, 堀口維里優, 坂本航太郎, 堀部和也, 小島武, 松尾豊, 岩澤有祐 [『大規模言語モデル時代の社会シミュレーション「再現」と「理解」の目的別に見る研究動向』](https://www.jstage.jst.go.jp/article/tjsai/41/4/41_41-4_AN40-G/_article/-char/ja/) 人工知能学会論文誌 (JSAI 2026), 人工知能学会設立40周年記念論文, 2026. <span class="award">創立40周年記念論文 優秀賞</span>
+- **森隆太郎**\*, 原田憲旺\*, 水野晋之介, 大西直, 堀口維里優, 坂本航太郎, 堀部和也, 小島武, 松尾豊, 岩澤有祐 [『大規模言語モデル時代の社会シミュレーション「再現」と「理解」の目的別に見る研究動向』](https://www.jstage.jst.go.jp/article/tjsai/41/4/41_41-4_AN40-G/_article/-char/ja/) 人工知能学会論文誌 (JSAI 2026), 人工知能学会設立40周年記念論文, 2026. (\*co-first) <span class="award">創立40周年記念論文 優秀賞</span>
 - 亀田達也・**森隆太郎** (2022). [分配の正義の社会生物学的基盤](https://www.jstage.jst.go.jp/article/jrsj/40/1/40_40_25/_article/-char/ja/). 日本ロボット学会誌, 40, 25-28. https://doi.org/10.7210/jrsj.40.25
+
+[プレプリント]
+
+- **Mori, R.**, Hanaki, N., & Kameda, T. (2026). [Real-time interaction and the signalling value of voluntary early cooperation](https://osf.io/preprints/psyarxiv/h7582). PsyArXiv.
+- Otsubo, K., Kido, Y., & **Mori, R.** (2026). [Partial exploiters sustain cooperation: the hump-shaped strategy stably coexists with unconditional cooperators](https://arxiv.org/abs/2604.23293). arXiv:2604.23293.
 
 # 学会発表
 
@@ -77,6 +87,11 @@
     <li>金惠璘・<strong>森隆太郎</strong>・Hugo Mercier・亀田達也「社会情報は政治的偏見に基づくバイアスを低減できるか？－情報カスケードパラダイムを用いた実験的検討」, <a href="https://sites.google.com/hbesj.org/conf2022sapporo/">人間行動進化学会第15回大会</a>, 口頭発表, 北海道, 2022年12月. <span class="award">若手発表賞</span></li>
 </ul>
 </details>
+
+# 教育
+
+- 行動経済学（[文京学院大学](https://www.bgu.ac.jp/)）：2025年度後期・2026年度後期
+- 心理学実験（[明治学院大学](https://www.meijigakuin.ac.jp/)）：2026年度前期
 
 # アカウント
 
